@@ -1,1 +1,1 @@
-print "Hi! You have run the job successfully!"
+print "Hi! I guess you just ran job via SCM successfully!"
